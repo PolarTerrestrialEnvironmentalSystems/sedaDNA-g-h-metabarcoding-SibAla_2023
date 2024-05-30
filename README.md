@@ -19,7 +19,7 @@ Need:
 - List of contaminants species to remove: KS_conta_list.csv
 
 2_data_to_fasta.R: clean the previous datatable and convert to fasta to provide as input to create an OBITools3 database.
-  - Only the out from the previous script is needed.
+  - Only the output from the previous script is needed.
 
 ## OBITools3 against SibAla_2023 
 
