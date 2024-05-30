@@ -26,7 +26,7 @@ Need:
 
 ## Quality filtering of the replicates
 
-# References
+## References
 1. GBIF.org (2023), GBIF Home Page. Available from: https://www.gbif.org [30 May 2024].
 2. E. Willerslev, J. Davison, M. Moora, M. Zobel, E. Coissac, M. E. Edwards, E. D. Lorenzen, M. Vestergård, G. Gussarova, J. Haile, Fifty thousand years of Arctic vegetation and megafaunal diet. Nature, 506, 47-51 (2014). https://doi.org/10.1038/nature12921
 3. E. M. Soininen, G. Gauthier, F. Bilodeau, D. Berteaux, L. Gielly, P. Taberlet, G. Gussarova, E. Bellemain, K. Hassel, H. K. Stenøien, Highly overlapping winter diet in two sympatric lemming species revealed by DNA metabarcoding. PLoS One, 10, e0115335 (2015). https://doi.org/10.1371/journal.pone.0115335 
