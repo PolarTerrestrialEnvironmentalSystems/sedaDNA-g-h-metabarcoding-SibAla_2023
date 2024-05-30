@@ -1,7 +1,7 @@
 # sedaDNA-g-h-metabarcoding-SibAla_2023
 
 ## SibAla_2023 database creation
-Scripts 0 to 3 need to be executed one after the other.
+Scripts 0 to 2 need to be executed one after the other.
 
 0_GBIF_taxa_from_the_area.R: used to compile all species of Streptophyta with a minimum of 10 occurences in Alaska and Siberia (55-90°N, 50-150°E ; 40-90°N, 150°E-140°W).
 Need the downloaded occurence tables:
@@ -18,7 +18,8 @@ Need:
 - embl143 database prepared for OBITools (trnL g/h): 2022-05-11_embl143_GH_datatable.csv
 - List of contaminants species to remove: KS_conta_list.csv
 
-  2_
+  2_data_to_fasta: clean the previous datatable and convert to fasta to provide as input to create an OBITools3 database.
+  - Only the out from the previous script is needed.
 
 
 
