@@ -25,9 +25,14 @@ Need:
 - using the fasta file output from previous script.
 
 ## OBITools3 against SibAla_2023 
-
+4_Obi3_sibala_2023.sl: example script where OBITools3 pipeline is perform on raw sequencing data from one core (APMG-68)
+Need:
+- Sequencing data as R1.fastq and R2.fastq
+- Tagfile formatted as the example APMG-68_tagfile.txt
+- SibAla_2023 Database built previously
 
 ## Quality filtering of the replicates
+
 
 ## References
 1. GBIF.org (2023), GBIF Home Page. Available from: https://www.gbif.org [30 May 2024].
