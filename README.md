@@ -1,8 +1,8 @@
 # sedaDNA-g-h-metabarcoding-SibAla_2023
 
-## SibAla_2023 database creation
-Scripts 0 to 2 need to be executed one after the other.
+All scripts from 0 to 5 need to be executed one after the other.
 
+## SibAla_2023 database creation
 0_GBIF_taxa_from_the_area.R: used to compile all species of Streptophyta with a minimum of 10 occurrences in Alaska and Siberia (55-90°N, 50-150°E ; 40-90°N, 150°E-140°W) from the  Global Biodiversity Information Facility database (GBIF, ).
 Need the downloaded occurence tables:
 - 2022-07-08_sequencetable_taxanames_lineage_siberia55_occ10_final.csv
