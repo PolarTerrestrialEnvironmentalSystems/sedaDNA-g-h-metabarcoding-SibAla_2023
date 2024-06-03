@@ -32,6 +32,11 @@ Need:
 - SibAla_2023 Database built previously
 
 ## Quality filtering of the replicates
+5_remove_replicates_resample_gh_datasets_sibala2023.R_ example script to check quality of PCR replicates for each core.
+Need:
+- OBITools 3 output from previous script
+- Table with age/depth linkage
+- List of samples to remove because of poor quality
 
 
 ## References
