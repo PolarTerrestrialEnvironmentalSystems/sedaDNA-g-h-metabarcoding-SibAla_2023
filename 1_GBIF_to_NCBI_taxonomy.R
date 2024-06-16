@@ -452,8 +452,8 @@ SibAl_with_extra_arc_phylo <- SibAl_corr %>% full_join(save_phylo_arc_clean)
 ###############################################################################
 # 6 - Remove contaminant phase
 ###############################################################################
-# Import contaminant list - check from Kathleen Stoof-Leichsenring
-conta <- read_delim("input/KS_conta_list.csv", delim = ",")
+# Import contaminant list
+conta <- read_delim("input/contamination_seq_db.csv", delim = ",")
 conta_list <- conta %>% filter(contaminants_confirmed == "yes") %>% select(NCBI_taxID) %>% distinct() %>% filter(!is.na(NCBI_taxID))
 
 contaminant_list <- conta_list %>% mutate(NCBI_taxID = as.character((NCBI_taxID))) %>% left_join(custom_taxonomy, by = c("NCBI_taxID" = "ncbi_id"))
