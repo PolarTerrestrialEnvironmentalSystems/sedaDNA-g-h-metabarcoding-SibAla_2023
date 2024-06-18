@@ -1,6 +1,9 @@
 # sedaDNA-g-h-metabarcoding-SibAla_2023
 
+Those scripts are used to analyse the data presented in XXX (reference publication).
+The needed dataset to run the scripts are described in XXX (reference publication) and available as supplementary data 5.
 All scripts from 0 to 5 need to be executed one after the other.
+
 
 ## SibAla_2023 database creation
 0_GBIF_taxa_from_the_area.R: used to compile all species of Streptophyta with a minimum of 10 occurrences in Alaska and Siberia (55-90°N, 50-150°E ; 40-90°N, 150°E-140°W) from the  Global Biodiversity Information Facility database (GBIF, ).
