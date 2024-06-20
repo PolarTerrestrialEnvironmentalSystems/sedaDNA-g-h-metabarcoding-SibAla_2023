@@ -19,7 +19,7 @@ Need:
 - arctborbryo database prepared for OBITools (trnL g/h): 2022-05-05_arcbryo_GH_datatable.csv
 - PhyloNorway database prepared for OBITools (trnL g/h): 2022-05-05_phylonorway_GH_datatable.csv
 - embl143 database prepared for OBITools (trnL g/h): 2022-05-11_embl143_GH_datatable.csv
-- List of contaminants species to remove: KS_conta_list.csv
+- List of contaminants species to remove: contaminant_seq_db.csv
 
 2_data_to_fasta.R: clean the previous data table and convert to fasta to provide as input to create an OBITools3 database.
 - Only the output from the previous script is needed.
