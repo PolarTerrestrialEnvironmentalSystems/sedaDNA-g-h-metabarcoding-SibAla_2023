@@ -1,7 +1,7 @@
 # sedaDNA-g-h-metabarcoding-SibAla_2023
 
-Those scripts are used to analyse the data presented in XXX (reference publication).
-The needed dataset to run the scripts are described in XXX (reference publication) and available as supplementary data 5.
+Those scripts are used to analyse the data presented in Courtin et al. (2024), "Potential plant extinctions with the loss of the Pleistocene mammoth steppe", Nat. Comm..
+The needed dataset to run the scripts are described in Courtin et al. (2024), "Potential plant extinctions with the loss of the Pleistocene mammoth steppe", Nat. Comm. 2024 and available as supplementary data 5.
 All scripts from 0 to 5 need to be executed one after the other.
 
 
